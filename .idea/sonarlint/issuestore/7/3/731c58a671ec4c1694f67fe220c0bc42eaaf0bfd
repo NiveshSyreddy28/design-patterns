@@ -1,0 +1,7 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»üœ³úÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Í«ëúÿÿÿÿ8Èí¤ü0
+E
+java:S2201"/The return value of "toLowerCase" must be used.(á»İ
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8‘ÜÙÅ‘0

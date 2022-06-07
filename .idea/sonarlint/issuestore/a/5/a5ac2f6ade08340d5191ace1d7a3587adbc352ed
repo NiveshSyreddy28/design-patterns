@@ -1,0 +1,17 @@
+
+y
+java:S1450"WRemove the "basement" field and declare it as a local variable in the relevant methods.(Œü…ùøÿÿÿÿ8…“øÿ0
+t
+java:S1450"WRemove the "interior" field and declare it as a local variable in the relevant methods.(¿¾ÅŒ8†“øÿ0
+u
+java:S1450"SRemove the "roof" field and declare it as a local variable in the relevant methods.(ÙÑû…ıÿÿÿÿ8‡“øÿ0
+z
+java:S1450"XRemove the "structure" field and declare it as a local variable in the relevant methods.(”±Ùÿÿÿÿÿ8‡“øÿ0
+N
+java:S1068",Remove this unused "basement" private field.(Œü…ùøÿÿÿÿ8£“øÿ0
+O
+java:S1068"-Remove this unused "structure" private field.(”±Ùÿÿÿÿÿ8¤“øÿ0
+J
+java:S1068"(Remove this unused "roof" private field.(ÙÑû…ıÿÿÿÿ8¤“øÿ0
+I
+java:S1068",Remove this unused "interior" private field.(¿¾ÅŒ8¥“øÿ0
